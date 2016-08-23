@@ -1,0 +1,30 @@
+{
+  "name": "youtube-random-video",
+  "version": "1.0.0",
+  "description": "YouTube Data API does not provide a possibility to get a random video. This module aims to solve that problem.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cubbic/youtubeRandomVideoNodeJs.git"
+  },
+  "keywords": [
+    "youtube",
+    "random",
+    "video",
+    "api",
+    "search",
+    "data"
+  ],
+  "author": "cubbic",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cubbic/youtubeRandomVideoNodeJs/issues"
+  },
+  "homepage": "https://github.com/cubbic/youtubeRandomVideoNodeJs#readme",
+  "dependencies": {
+    "request": "^2.74.0"
+  }
+}
