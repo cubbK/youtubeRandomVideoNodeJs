@@ -1,7 +1,7 @@
 {
   "name": "youtube-random-video",
-  "version": "1.0.1",
-  "description": "YouTube Data API does not provide a possibility to get a random video. This module aims to solve that problem.",
+  "version": "1.0.4",
+  "description": "The easiest way to get a random video from YouTube.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
