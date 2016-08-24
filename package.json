@@ -1,6 +1,6 @@
 {
   "name": "youtube-random-video",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "The easiest way to get a random video from YouTube.",
   "main": "index.js",
   "scripts": {
